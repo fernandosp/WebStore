@@ -1,0 +1,17 @@
+{
+  "WebstoreApi": {
+    "commandName": "Project",
+    "launchBrowser": true,
+    "launchUrl": "api/car",
+    "applicationUrl": "http://localhost:5000",
+    "environmentVariables": {
+      "ASPNETCORE_ENVIRONMENT": "Development"
+    }
+  },
+  "profiles": {
+    "Webstore.Api": {
+      "commandName": "Project",
+      "applicationUrl": ""
+    }
+  }
+}
